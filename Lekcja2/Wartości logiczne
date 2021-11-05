@@ -4,3 +4,6 @@ bool(1.0)
 bool("")
 bool('a')
 print (x and y)
+
+
+
